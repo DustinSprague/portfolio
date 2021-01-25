@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: green;
+}
+a[href="index.html"] {
+  background-color: magenta;
+}
+a[href="Halo.html"] {
+  background-color: green;
+}
+a[href="https://github.com/DustinSprague/semantic-elements/commit/e7b8cab2432aad1771c80aa7ef356f79aa868cb3"] {
+  background-color: green;
+}
+a[href=""] {
+  background-color: green;
+}
+h2 {
+  color: green;
+}
+h3 {
+  color: magenta;
+}
+p {
+  color: green;
+}
+.magenta-text {
+  color: magenta;
+}
+#lead-paragraph {
+  font-weight: bold;
+}
+.important {
+  font-weight: bold;
+}
+.important:hover {
+  background-color: white;
+}
+h2.important {
+  width: 22%;
+}
+p.important {
+  color: darkblue;
+  width: 11%;
+}
+h1.important {
+  color: magenta;
+  width: 8%;
+}
