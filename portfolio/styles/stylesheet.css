@@ -1,0 +1,81 @@
+<link href="https://fonts.googleapis.com/css2?family=Faustina:wght@500&family=Jura:wght@700&display=swap" rel="fontsstylesheet">
+h1 {
+  font-family: 'Faustina', serif;
+}
+p {
+  font-family: 'Jura', sans-serif;
+}
+body {
+  background-color: black;
+}
+h1 {
+  color: green;
+}
+a[href="index.html"] {
+  background-color: magenta;
+}
+a[href="Halo.html"] {
+  background-color: green;
+}
+a[href="https://github.com/DustinSprague/semantic-elements/commit/e7b8cab2432aad1771c80aa7ef356f79aa868cb3"] {
+  background-color: green;
+}
+a[href="https://github.com/DustinSprague/portfolio"] {
+  background-color: green;
+}
+a[href="https://github.com/DustinSprague/match-the-mockup"] {
+  background-color: green;
+}
+a[href=""] {
+  background-color: green;
+}
+h2 {
+  color: green;
+}
+h3 {
+  color: magenta;
+}
+p {
+  color: green;
+}
+figcaption {
+  color: magenta;
+}
+.magenta-text {
+  color: magenta;
+}
+#lead-paragraph {
+  font-weight: bold;
+}
+.important {
+  font-weight: bold;
+}
+.important:hover {
+  background-color: white;
+}
+h2.important {
+  width: 22%;
+}
+p.important {
+  color: darkblue;
+  width: 11%;
+}
+h1.important {
+  color: magenta;
+  width: 8%;
+}
+img {
+  border-color: green;
+  border-style: dashed;
+}
+.contanier {
+  justify-content: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+.fa-user-astronaut {
+  color: magenta;
+}
+.fa-cat {
+  color: darkblue;
+}
